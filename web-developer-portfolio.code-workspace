@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../web-developer-portfolio"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Simple Responsive Layout"
+	}
+}
